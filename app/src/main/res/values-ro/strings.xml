@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="title_share">Distribuie</string>
+    <string name="title_show_coordinates">Arata Coordonate</string>
+    <string name="title_open_map">deschide harta</string>
+    <string name="title_open_camera">deschide camera</string>
+    <string name="overview">cuprins</string>
+    <string name="budget">buget</string>
+    <string name="release_date">data lansarii</string>
+    <string name="revenue">incasari</string>
+    <string name="runtime">durata</string>
+</resources>

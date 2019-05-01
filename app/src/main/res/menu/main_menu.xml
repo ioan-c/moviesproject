@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/item_sms"
+        android:title="@string/title_share"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/item_gps"
+        android:title="@string/title_show_coordinates"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/item_map"
+        android:title="@string/title_open_map"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/item_cam"
+        android:title="@string/title_open_camera"
+        app:showAsAction="never"/>
+</menu>

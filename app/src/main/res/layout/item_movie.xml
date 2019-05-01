@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools">
+    <TextView
+        android:padding="12dp"
+        tools:text="aaa"
+        android:textColor="@android:color/black"
+        android:id="@+id/text_movie_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    
+</LinearLayout>

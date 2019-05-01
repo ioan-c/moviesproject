@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movies App</string>
+    
+    <string name="title_share">Share</string>
+    <string name="title_show_coordinates">Show coordinates</string>
+    <string name="title_open_map">Open map</string>
+    <string name="title_open_camera">Open camera</string>
+    <string name="overview">overview</string>
+    <string name="budget">buget</string>
+    <string name="release_date">release date</string>
+    <string name="revenue">Revenue</string>
+    <string name="runtime">Runtime</string>
+</resources>
